@@ -1,0 +1,10 @@
+# 头部导航
+navbar:
+  menu:
+    - { path: /, name: 首页 }
+    - { path: /archives/, name: 归档 }
+
+# 首页标语
+banner:
+  title: "Hello World"
+  subtitle: "欢迎来到我的博客"

@@ -1,0 +1,8 @@
+# 启用 Fluid 主题
+theme: fluid
+
+# 其他关键配置
+language: zh-CN  # 中文
+title: 你的博客名
+subtitle: 一句简介
+url: https://yourdomain.com  # 后续替换为你的域名
